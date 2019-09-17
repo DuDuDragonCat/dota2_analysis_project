@@ -1,0 +1,130 @@
+// GameMode
+{
+    {
+        "ID":   0,
+        "Name": "No Game Mode",
+    },
+    {
+        "ID":   1,
+        "Name": "All Pick",
+    },
+    {
+        "ID":   2,
+        "Name": "Captain's Mode",
+    },
+    {
+        "ID":   3,
+        "Name": "Random Draft",
+    },
+    {
+        "ID":   4,
+        "Name": "Single Draft",
+    },
+    {
+        "ID":   5,
+        "Name": "All Random",
+    },
+    {
+        "ID":   7,
+        "Name": "DiretIDe",
+    },
+    {
+        "ID":   8,
+        "Name": "Reverse Captain's Mode",
+    },
+    {
+        "ID":   9,
+        "Name": "Greeviling",
+    },
+    {
+        "ID":   10,
+        "Name": "Tutorial",
+    },
+    {
+        "ID":   11,
+        "Name": "MID Only",
+    },
+    {
+        "ID":   12,
+        "Name": "Least Played",
+    },
+    {
+        "ID":   13,
+        "Name": "New Player Pool",
+    },
+    {
+        "ID":   14,
+        "Name": "Compendium Matchmaking",
+    },
+    {
+        "ID":   15,
+        "Name": "Custom",
+    },
+    {
+        "ID":   16,
+        "Name": "Captain's Draft",
+    },
+    {
+        "ID":   17,
+        "Name": "Balanced Draft",
+    },
+    {
+        "ID":   18,
+        "Name": "Ability Draft",
+    },
+    {
+        "ID":   20,
+        "Name": "All Random Deathmatch",
+    },
+    {
+        "ID":   21,
+        "Name": "Solo MID 1v1",
+    },
+    {
+        "ID":   22,
+        "Name": "Ranked All Pick",
+    }
+},
+// Lobby
+{
+	{
+		"ID":   -1,
+		"Name": "InvalID",
+	},
+	{
+		"ID":   0,
+		"Name": "Public Matchmaking",
+	},
+	{
+		"ID":   1,
+		"Name": "Practice",
+	},
+	{
+		"ID":   2,
+		"Name": "TourNament",
+	},
+	{
+		"ID":   3,
+		"Name": "Tutorial",
+	},
+	{
+		"ID":   4,
+		"Name": "Co-Op with bots",
+	},
+	{
+		"ID":   5,
+		"Name": "Team Match",
+	},
+	{
+		"ID":   6,
+		"Name": "Solo Queue",
+	},
+	{
+		"ID":   7,
+		"Name": "Ranked",
+	},
+	{
+		"ID":   8,
+		"Name": "Solo MID 1vs1",
+	},
+}
